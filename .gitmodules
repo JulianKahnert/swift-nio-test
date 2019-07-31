@@ -1,0 +1,3 @@
+[submodule "swift-nio"]
+	path = swift-nio
+	url = https://github.com/apple/swift-nio
